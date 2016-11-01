@@ -1,0 +1,57 @@
+# Site settings
+title: Tjebbe Westendorp
+twitter_username: tswestendorp
+name: Tjebbe Westendorp
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Site
+   url: http://www.tswestendorp.nl/
+ - title: GitHub
+   url: https://github.com/tswestendorp
+
+#Any buzzword skills you want to include
+skills:
+ - PHP
+ - MySQL
+ - DevOps
+
+#Work experience is required
+roles:
+ - title: Senior PHP Developer
+   start: 2014
+   end: Ongoing
+   employer: Hoteliers.com
+   description: 
+
+#Education is required
+education:
+ - level: Bachelor of Multimedia Design
+   date: 2007
+   subject: 
+   school: NHL Hogeschool
+
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: http://zend.com/zce.php?c=ZEND009853&r=237965722
+   courses:
+    - title: Zend Certified Engineer - PHP 5.3
+      link: http://www.zend.com/en/services/certification/php-5-certification
+      optionalimage: 
+      date: August, 2011
+
+#List of interesting Github repo/projects to include - optional
+#github:
+# - robhinds/twitter-sentiment-analysis
+# - robhinds/spring-reactor-twitter
+# - robhinds/microservices
+
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: http://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+#additionalinfo: |
+#   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>).
